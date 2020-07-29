@@ -1,6 +1,8 @@
-# This is just a backup project, the time of Fork is 2020-07-28, before deleting the library at night
+# About
+## This is just a backup project, the time of Fork is 2020-07-28, before deleting the library at night
   这只是一个备份项目，Fork的时间为2020-07-28，晚间删库前
-## 备份项目负责人邮箱
+
+# 备份项目负责人邮箱
 ### [tjqt5backup@protonmail.com](mailto:tjqt5backup@protonmail.com)
 
 # Trojan-Qt5 is A cross-platform socks5/http/ss/ssr/vmess/trojan(go)/snell GUI client
