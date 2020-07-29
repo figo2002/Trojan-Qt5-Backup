@@ -1,6 +1,7 @@
 # About
 ## Trojan-Qt5 is A cross-platform socks5/http/ss/ssr/vmess/trojan(go)/snell GUI client
 - 备份地址：[https://github.com/Trojan-Qt5-Backup/Trojan-Qt5](https://github.com/Trojan-Qt5-Backup/Trojan-Qt5)
+（备份库来自于目前能找到的最后的最完整的fork）
 - 原项目地址（已删库）： [https://github.com/Trojan-Qt5/Trojan-Qt5](https://github.com/Trojan-Qt5/Trojan-Qt5)
 
 ## This is just a backup project, the time of Fork is 2020-07-28, before deleting the library at night
