@@ -9,6 +9,9 @@
 ## 备份地址：[https://github.com/Trojan-Qt5-Backup/Trojan-Qt5](https://github.com/Trojan-Qt5-Backup/Trojan-Qt5)
 ## 原项目地址（已删库）： [https://github.com/Trojan-Qt5/Trojan-Qt5](https://github.com/Trojan-Qt5/Trojan-Qt5)
 
+# 本仓库包含什么：
+- 原作者所有公开的commit
+- 所有的branches与TAG
 <!--
 **Trojan-Qt5-Backup/Trojan-Qt5-Backup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
